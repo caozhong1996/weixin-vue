@@ -6,6 +6,8 @@
 
 > 请使用手机打开，或者在浏览器按F12，使用手机模式预览。
 
+> 数据库是mongondb，请安装mongondb并且配置
+
 ## Build Setup
 
 ``` bash
