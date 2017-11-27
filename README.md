@@ -1,6 +1,6 @@
 # weixin
 
-> 使用VUE socke.io mongondb 图灵机器人API完成的高仿微信webapp，实现了机器人聊天和在线实时群聊等功能。
+> 使用VUE socke.io、mongondb、图灵机器人API完成的高仿微信webapp，实现了机器人聊天和在线实时群聊等功能。
 
 > 移动端预览地址：http://112.74.51.201
 
