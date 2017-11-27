@@ -1,6 +1,6 @@
 # weixin
 
-> A Vue.js project
+> 使用VUE socke.io mongondb 图灵机器人API完成的高仿微信webapp，实现了机器人聊天和在线实时群聊等功能。
 
 ## Build Setup
 
